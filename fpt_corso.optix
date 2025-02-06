@@ -29,15 +29,19 @@ Project:
    Uri: 'urn:FTOptix:NativeUI'
    Module: FTOptix.NativeUI
    Version: 2.1
+  9:
+   Uri: 'urn:FTOptix:WebUI'
+   Module: FTOptix.WebUI
+   Version: 1.2
  Statistics:
-  TotalNodeCount: 271
-  Objects: 94
-  ObjectTypes: 1
-  Variables: 176
+  TotalNodeCount: 355
+  Objects: 109
+  ObjectTypes: 6
+  Variables: 240
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
-  References: 0
+  References: 7
   ReferenceTypes: 0
   Files: 21
  Nodes:

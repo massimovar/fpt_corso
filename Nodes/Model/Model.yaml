@@ -4,3 +4,6 @@ Children:
 - Name: MyFirstBit
   Type: BaseDataVariableType
   DataType: Boolean
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Boolean
